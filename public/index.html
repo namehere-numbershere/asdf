@@ -1,0 +1,25 @@
+<h1>Chemical Example</h1>
+<input id="search" placeholder="Enter URL">
+
+<script src="/chemical.js"></script>
+<script>
+    const search = document.getElementById("search");
+
+    search.addEventListener("keydown", function (e) {
+        if (e.key == "Enter" && window.chemicalLoaded && e.target.value) {
+            document.getElementById("asd").src = window.chemicalEncode(e.target.value)
+        }
+    })
+</script>
+<script>
+    function asd() {
+        console.log("CLICKED")
+        console.log(document.getElementById("search").value)
+        document.getElementById("asd").src = window.chemicalEncode(document.getElementById("search").value)
+    }
+</script>
+<br />
+<button id="eee" onclick="asd()">
+    asd
+</button>
+<iframe id="asd" width="900" height="900"> </iframe>

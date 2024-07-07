@@ -1,0 +1,15 @@
+{
+  "name": "proxy-maybe",
+  "version": "0.0.0",
+  "description": "ProxyMaybe",
+  "main": "server.js",
+  "type": "module",
+  "author": {
+    "name": ""
+  },
+  "devDependencies": {
+    "eslint": "^8.21.0"
+  },
+  "eslintConfig": {
+  }
+}

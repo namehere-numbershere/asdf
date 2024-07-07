@@ -1,0 +1,3 @@
+C:\Users\theja\source\repos\ProxyMaybe\ProxyMaybe\obj\Debug\ProxyMaybe.njsproj.AssemblyReference.cache
+C:\Users\theja\source\repos\ProxyMaybe\ProxyMaybe\obj\Debug\ProxyMaybe.njsproj.CoreCompileInputs.cache
+C:\Users\theja\source\repos\ProxyMaybe\ProxyMaybe\bin\Microsoft.NodejsTools.WebRole.dll
